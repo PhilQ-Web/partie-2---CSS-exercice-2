@@ -1,0 +1,17 @@
+h1{
+    font-size: medium; 
+    font-style: bold; 
+    text-indent: 20pc;
+}
+    
+.rouge{
+    color: red;
+}   
+
+.vert{
+    color: green;
+}
+
+#italic{
+    font-style: italic;
+}
